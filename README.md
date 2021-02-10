@@ -5,3 +5,7 @@ This package contains demonstration data for the
 
 When the NGCHMDemoData package is loaded, the demo data is loaded.
 
+This data is the data used for generating the The Cancer Genome Atlas
+(TCGA) Glioblastoma multiforme (GBM) mRNA Expression gene vs sample NGCHM in the 
+[TCGA Next-Generation Clustered Heat Map Compendium](https://tcga.ngchm.net/).
+
