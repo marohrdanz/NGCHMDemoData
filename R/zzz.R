@@ -1,8 +1,8 @@
 ## Load demo data
 
 .onLoad <- function(libname, pkgname) {
-	data('TCGA.GBM.Demo', package='NGCHMDemoData')
-	message('Loaded TCGA GBM demo data')
+	data('TCGA.BRCA.Demo', package='NGCHMDemoData')
+	message('Loaded TCGA BRCA demo data')
 }
 
 
