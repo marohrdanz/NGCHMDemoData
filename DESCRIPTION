@@ -5,6 +5,8 @@ Author: Mary A Rohrdanz <marohrdanz@mdanderson.org>
         Bradley M Broom <bmbroom@mdanderson.org>
 Maintainer: Mary A Rohrdanz <marohrdanz@mdanderson.org>
 Description: Package of demo data for NGCHM vignettes.
+Depends:
+    R (>= 3.5.0)
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
