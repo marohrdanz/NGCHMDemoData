@@ -1,8 +1,9 @@
 ## Load demo data
 
 .onLoad <- function(libname, pkgname) {
-	data('TCGA.BRCA.Demo', package='NGCHMDemoData')
-	message('Loaded TCGA BRCA demo data')
-}
+    utils::data('TCGA.BRCA.Demo', package='NGCHMDemoData');
+};
 
-
+.onAttach <- function(libname, pkgname) {
+    base::packageStartupMessage('Loaded TCGA BRCA demo data');
+};
