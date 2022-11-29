@@ -1,13 +1,16 @@
 Package: NGCHMDemoData
-Title: Package containing NGCHM Demo Data
+Title: Package Containing NGCHM Demo Data
 Version: 0.0.10
-Author: Mary A Rohrdanz <marohrdanz@mdanderson.org>
-        Bradley M Broom <bmbroom@mdanderson.org>
-Maintainer: Mary A Rohrdanz <marohrdanz@mdanderson.org>
+Authors@R:
+  c(person(given=c("Bradley", "M"), family="Broom", role=c("aut"), email="bmbroom@mdanderson.org", comment=c(ORCID="0000-0002-0915-3164")),
+    person(given=c("Mary", "A"), family="Rohrdanz", role=c("aut","cre"), email="marohrdanz@mdanderson.org"),
+    person(given="Chris", family="Wakefield", role=c("ctb"), email="cwakefield@mdanderson.org"),
+    person(given="James", family="Melott", role=c("ctb"), email="jmmelott@mdanderson.org"),
+    person(given="MD Anderson Cancer Center", role=c("cph")))
 Description: Package of demo data for NGCHM vignettes.
 Depends:
     R (>= 3.5.0)
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1
