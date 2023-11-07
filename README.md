@@ -1,5 +1,13 @@
 # NGCHM Demo Data
 
+
+![r-universe](https://marohrdanz.r-universe.dev/badges/NGCHMDemoData)
+
+```r
+# Install NGCHMDemoData in R:
+install.packages('NGCHMDemoData', repos = c('https://marohrdanz.r-universe.dev', 'https://cloud.r-project.org'))
+```
+
 This package contains demonstration data for the 
 [NGCHM-R package](https://github.com/MD-Anderson-Bioinformatics/NGCHM-R). 
 
