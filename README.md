@@ -1,7 +1,7 @@
 # NGCHM Demo Data
 
 
-![r-universe](https://marohrdanz.r-universe.dev/badges/NGCHMDemoData?scale=1.4&color=pink&style=flat)
+![r-universe](https://marohrdanz.r-universe.dev/badges/NGCHMDemoData?scale=1.4&color=green&style=flat)
 
 ```r
 # Install NGCHMDemoData in R:
